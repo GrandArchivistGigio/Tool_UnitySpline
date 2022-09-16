@@ -1,0 +1,19 @@
+{
+  "name": "com.unityexample.splinetool",
+  "version": "1.0.0",
+  "displayName": "SplineTool",
+  "description": "This is tool package",
+  "unity": "2020.3",
+  "dependencies":{},
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Gigio",
+    "email": "test@domain.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type":"tool"
+}
